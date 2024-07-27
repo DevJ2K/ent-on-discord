@@ -1,0 +1,3 @@
+NOUVEAU BOUTON
+.Les boutons "Jour Précédent" & "Jour Suivant" !
+Après l'obtention de votre emploi du temps, vous avez à present la possibilité d'obtenir les jours suivants et précédents à l'aide des boutons.

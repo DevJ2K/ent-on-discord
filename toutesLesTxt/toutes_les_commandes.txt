@@ -1,0 +1,7 @@
+TOUTES LES COMMANDES
+!getMoyenneG : Récupérer sa moyenne générale.
+!getAllMoyennes : Récupérer toutes ses moyennes dans toutes ses matières.
+!getEDT : Récupérer son Emploi Du Temps.
+!getLastNotes : Récupérer ses dernières notes.
+!getAllDevoirs : Récupérer tous ses devoirs.
+!all : Obtenir toutes les commandes disponibles.

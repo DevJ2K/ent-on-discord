@@ -1,0 +1,6 @@
+Salut {} !
+C'est moi <@{}>, qui vais te guider pour ta première connexion à l'ENT via le discord.
+Je vais te dire les étapes à suivre pour te connecter facilement et utiliser le serveur dans les meilleurs conditions possibles :)
+Note que pour éviter qu'il y ait trop de ticket ouvert, ce ticket sera fermé automatiquement si tu reste inactif pendant 3 minutes consécutives.
+Tu peux tout de même réouvrir un ticket si celui se ferme dans le channel -> {}
+C'est parti ! Commence par me donner ton identifiant ENT qui est sous cette forme : __prenom.nom__
